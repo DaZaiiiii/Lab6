@@ -1,0 +1,16 @@
+C:\Users\aniwo\source\repos\Zaytseva.Lab6.Exercise2\bin\Debug\net5.0\Zaytseva.Lab6.Exercise2.exe
+C:\Users\aniwo\source\repos\Zaytseva.Lab6.Exercise2\bin\Debug\net5.0\Zaytseva.Lab6.Exercise2.deps.json
+C:\Users\aniwo\source\repos\Zaytseva.Lab6.Exercise2\bin\Debug\net5.0\Zaytseva.Lab6.Exercise2.runtimeconfig.json
+C:\Users\aniwo\source\repos\Zaytseva.Lab6.Exercise2\bin\Debug\net5.0\Zaytseva.Lab6.Exercise2.runtimeconfig.dev.json
+C:\Users\aniwo\source\repos\Zaytseva.Lab6.Exercise2\bin\Debug\net5.0\Zaytseva.Lab6.Exercise2.dll
+C:\Users\aniwo\source\repos\Zaytseva.Lab6.Exercise2\bin\Debug\net5.0\ref\Zaytseva.Lab6.Exercise2.dll
+C:\Users\aniwo\source\repos\Zaytseva.Lab6.Exercise2\bin\Debug\net5.0\Zaytseva.Lab6.Exercise2.pdb
+C:\Users\aniwo\source\repos\Zaytseva.Lab6.Exercise2\obj\Debug\net5.0\Zaytseva.Lab6.Exercise2.csproj.AssemblyReference.cache
+C:\Users\aniwo\source\repos\Zaytseva.Lab6.Exercise2\obj\Debug\net5.0\Zaytseva.Lab6.Exercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aniwo\source\repos\Zaytseva.Lab6.Exercise2\obj\Debug\net5.0\Zaytseva.Lab6.Exercise2.AssemblyInfoInputs.cache
+C:\Users\aniwo\source\repos\Zaytseva.Lab6.Exercise2\obj\Debug\net5.0\Zaytseva.Lab6.Exercise2.AssemblyInfo.cs
+C:\Users\aniwo\source\repos\Zaytseva.Lab6.Exercise2\obj\Debug\net5.0\Zaytseva.Lab6.Exercise2.csproj.CoreCompileInputs.cache
+C:\Users\aniwo\source\repos\Zaytseva.Lab6.Exercise2\obj\Debug\net5.0\Zaytseva.Lab6.Exercise2.dll
+C:\Users\aniwo\source\repos\Zaytseva.Lab6.Exercise2\obj\Debug\net5.0\ref\Zaytseva.Lab6.Exercise2.dll
+C:\Users\aniwo\source\repos\Zaytseva.Lab6.Exercise2\obj\Debug\net5.0\Zaytseva.Lab6.Exercise2.pdb
+C:\Users\aniwo\source\repos\Zaytseva.Lab6.Exercise2\obj\Debug\net5.0\Zaytseva.Lab6.Exercise2.genruntimeconfig.cache
